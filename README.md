@@ -12,6 +12,7 @@
 | [0001-two-sum](https://github.com/4511Satyam/leetcode-dsa/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/4511Satyam/leetcode-dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/4511Satyam/leetcode-dsa/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/4511Satyam/leetcode-dsa/tree/master/0202-happy-number) |
 ## Linked List
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/4511Satyam/leetcode-dsa/tree/master/0002-add-two-numbers) |
+| [0202-happy-number](https://github.com/4511Satyam/leetcode-dsa/tree/master/0202-happy-number) |
 ## Recursion
 |  |
 | ------- |
@@ -43,9 +45,11 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/4511Satyam/leetcode-dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/4511Satyam/leetcode-dsa/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/4511Satyam/leetcode-dsa/tree/master/0202-happy-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/4511Satyam/leetcode-dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/4511Satyam/leetcode-dsa/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/4511Satyam/leetcode-dsa/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
