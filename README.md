@@ -32,14 +32,17 @@
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/4511Satyam/leetcode-dsa/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/4511Satyam/leetcode-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Stack
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/4511Satyam/leetcode-dsa/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/4511Satyam/leetcode-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/4511Satyam/leetcode-dsa/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/4511Satyam/leetcode-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,4 +55,8 @@
 | [0141-linked-list-cycle](https://github.com/4511Satyam/leetcode-dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/4511Satyam/leetcode-dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/4511Satyam/leetcode-dsa/tree/master/0202-happy-number) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/4511Satyam/leetcode-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
