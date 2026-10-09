@@ -49,6 +49,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/4511Satyam/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/4511Satyam/leetcode-dsa/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/4511Satyam/leetcode-dsa/tree/master/0155-min-stack) |
 | [0856-score-of-parentheses](https://github.com/4511Satyam/leetcode-dsa/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/4511Satyam/leetcode-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/4511Satyam/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
@@ -101,4 +102,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/4511Satyam/leetcode-dsa/tree/master/0023-merge-k-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/4511Satyam/leetcode-dsa/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
