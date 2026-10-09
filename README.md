@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/4511Satyam/leetcode-dsa/tree/master/0001-two-sum) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/4511Satyam/leetcode-dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/4511Satyam/leetcode-dsa/tree/master/0002-add-two-numbers) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/4511Satyam/leetcode-dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/4511Satyam/leetcode-dsa/tree/master/0202-happy-number) |
 ## Recursion
 |  |
@@ -49,6 +51,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/4511Satyam/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/4511Satyam/leetcode-dsa/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/4511Satyam/leetcode-dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/4511Satyam/leetcode-dsa/tree/master/0155-min-stack) |
 | [0856-score-of-parentheses](https://github.com/4511Satyam/leetcode-dsa/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/4511Satyam/leetcode-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
