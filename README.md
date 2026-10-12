@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/4511Satyam/leetcode-dsa/tree/master/0001-two-sum) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/4511Satyam/leetcode-dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/4511Satyam/leetcode-dsa/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/4511Satyam/leetcode-dsa/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/4511Satyam/leetcode-dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/4511Satyam/leetcode-dsa/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/4511Satyam/leetcode-dsa/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/4511Satyam/leetcode-dsa/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/4511Satyam/leetcode-dsa/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/4511Satyam/leetcode-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/4511Satyam/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
@@ -127,4 +129,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/4511Satyam/leetcode-dsa/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/4511Satyam/leetcode-dsa/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
