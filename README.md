@@ -50,6 +50,7 @@
 | [0022-generate-parentheses](https://github.com/4511Satyam/leetcode-dsa/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/4511Satyam/leetcode-dsa/tree/master/0058-length-of-last-word) |
 | [0301-remove-invalid-parentheses](https://github.com/4511Satyam/leetcode-dsa/tree/master/0301-remove-invalid-parentheses) |
+| [0647-palindromic-substrings](https://github.com/4511Satyam/leetcode-dsa/tree/master/0647-palindromic-substrings) |
 | [0856-score-of-parentheses](https://github.com/4511Satyam/leetcode-dsa/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/4511Satyam/leetcode-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/4511Satyam/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
@@ -87,6 +88,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/4511Satyam/leetcode-dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/4511Satyam/leetcode-dsa/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/4511Satyam/leetcode-dsa/tree/master/0202-happy-number) |
+| [0647-palindromic-substrings](https://github.com/4511Satyam/leetcode-dsa/tree/master/0647-palindromic-substrings) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -132,6 +134,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/4511Satyam/leetcode-dsa/tree/master/0022-generate-parentheses) |
+| [0647-palindromic-substrings](https://github.com/4511Satyam/leetcode-dsa/tree/master/0647-palindromic-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
