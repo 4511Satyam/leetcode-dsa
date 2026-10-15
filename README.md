@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/4511Satyam/leetcode-dsa/tree/master/0001-two-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/4511Satyam/leetcode-dsa/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/4511Satyam/leetcode-dsa/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/4511Satyam/leetcode-dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/4511Satyam/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/4511Satyam/leetcode-dsa/tree/master/0503-next-greater-element-ii) |
@@ -60,6 +61,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/4511Satyam/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/4511Satyam/leetcode-dsa/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/4511Satyam/leetcode-dsa/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/4511Satyam/leetcode-dsa/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/4511Satyam/leetcode-dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/4511Satyam/leetcode-dsa/tree/master/0155-min-stack) |
@@ -134,11 +136,13 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/4511Satyam/leetcode-dsa/tree/master/0022-generate-parentheses) |
+| [0085-maximal-rectangle](https://github.com/4511Satyam/leetcode-dsa/tree/master/0085-maximal-rectangle) |
 | [0647-palindromic-substrings](https://github.com/4511Satyam/leetcode-dsa/tree/master/0647-palindromic-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/4511Satyam/leetcode-dsa/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/4511Satyam/leetcode-dsa/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/4511Satyam/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/4511Satyam/leetcode-dsa/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/4511Satyam/leetcode-dsa/tree/master/0739-daily-temperatures) |
@@ -151,4 +155,8 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/4511Satyam/leetcode-dsa/tree/master/0084-largest-rectangle-in-histogram) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/4511Satyam/leetcode-dsa/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
