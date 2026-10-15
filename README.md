@@ -11,6 +11,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/4511Satyam/leetcode-dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/4511Satyam/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/4511Satyam/leetcode-dsa/tree/master/0503-next-greater-element-ii) |
+| [0704-binary-search](https://github.com/4511Satyam/leetcode-dsa/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/4511Satyam/leetcode-dsa/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
@@ -159,4 +160,8 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/4511Satyam/leetcode-dsa/tree/master/0085-maximal-rectangle) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/4511Satyam/leetcode-dsa/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
