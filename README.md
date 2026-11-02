@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/4511Satyam/leetcode-dsa/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/4511Satyam/leetcode-dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/4511Satyam/leetcode-dsa/tree/master/0035-search-insert-position) |
 | [0084-largest-rectangle-in-histogram](https://github.com/4511Satyam/leetcode-dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/4511Satyam/leetcode-dsa/tree/master/0085-maximal-rectangle) |
@@ -164,6 +165,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/4511Satyam/leetcode-dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/4511Satyam/leetcode-dsa/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/4511Satyam/leetcode-dsa/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
