@@ -11,6 +11,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/4511Satyam/leetcode-dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/4511Satyam/leetcode-dsa/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/4511Satyam/leetcode-dsa/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/4511Satyam/leetcode-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0496-next-greater-element-i](https://github.com/4511Satyam/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/4511Satyam/leetcode-dsa/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/4511Satyam/leetcode-dsa/tree/master/0704-binary-search) |
@@ -167,5 +168,6 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/4511Satyam/leetcode-dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/4511Satyam/leetcode-dsa/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/4511Satyam/leetcode-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/4511Satyam/leetcode-dsa/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
