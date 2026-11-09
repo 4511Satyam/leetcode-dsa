@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/4511Satyam/leetcode-dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/4511Satyam/leetcode-dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/4511Satyam/leetcode-dsa/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/4511Satyam/leetcode-dsa/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/4511Satyam/leetcode-dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/4511Satyam/leetcode-dsa/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/4511Satyam/leetcode-dsa/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -163,6 +164,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/4511Satyam/leetcode-dsa/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/4511Satyam/leetcode-dsa/tree/master/0085-maximal-rectangle) |
 ## Binary Search
 |  |
@@ -170,6 +172,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/4511Satyam/leetcode-dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/4511Satyam/leetcode-dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/4511Satyam/leetcode-dsa/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/4511Satyam/leetcode-dsa/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/4511Satyam/leetcode-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/4511Satyam/leetcode-dsa/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
